@@ -21,14 +21,14 @@ I like to keep busy so chances are, if I'm not working, I'm focusing on a person
 
 ### Skills
 
-| Languages    | Tools            | Frameworks | Math      |
-|:-------------|:-----------------|:-----------|:----------|
-| C++          | Git              | Node.js    |           |
-| C            | Linux            |            |           |
-| Java         | Rstudio          |            |           |
-| JavaScript   | Matlab           |            |           |
-| Python       | Visual Studio    |            |           |
-| HTML         | Object-Oriented Programming    |            |           |
-| SQL          |                  |            |           |
-| Python       |                  |            |           |
-| R            |                  |            |           |
+| Languages    | Tools                       | Frameworks | Math           |
+|:-------------|:----------------------------|:-----------|:---------------|
+| C++          | Git                         | Node.js    | Calculus       |
+| C            | Linux                       | SFML       | Diff. EQ       |
+| Java         | Rstudio                     | java.swing | Vectors        |
+| JavaScript   | Matlab                      | java.awt   | Linear Algebra |
+| Python       | Visual Studio               |            |                |
+| HTML         | Object-oriented Programming |            |                |
+| SQL          | Excel                       |            |                |
+| Python       |                             |            |                |
+| R            |                             |            |                |
