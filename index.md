@@ -17,15 +17,18 @@ I'm a graduate of the Anderson School of Management at the University of New Mex
 
 I like to keep busy so chances are, if I'm not working, I'm focusing on a personal project, potentially this very site! 
 
+* * *
+
 ### Skills
 
 | Languages    | Tools            | Frameworks | Math      |
 |:-------------|:-----------------|:-----------|:----------|
-| C++          | good swedish fish| nice       |           |
-| C           |  |   | |
-| Java | good and plenty   | nice  | |
-| JavaScript           | good `oreos`      | hmm   | |
-| Python           |  |   | |
-| HTML           |  |   | |
-| SQL           |  |   | |
-| Python           |  |   | |
+| C++          | Git              | Node.js    |           |
+| C            | Linux            |            |           |
+| Java         | Rstudio          |            |           |
+| JavaScript   | Matlab           |            |           |
+| Python       | Visual Studio    |            |           |
+| HTML         | Object-Oriented Programming    |            |           |
+| SQL          |                  |            |           |
+| Python       |                  |            |           |
+| R            |                  |            |           |
