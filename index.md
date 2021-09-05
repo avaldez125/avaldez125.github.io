@@ -19,7 +19,13 @@ I like to keep busy so chances are, if I'm not working, I'm focusing on a person
 
 ### Skills
 
-| Languages    |  | Tools            |  | Frameworks |
-|:-------------|  |:-----------------|  |:-----------|
-| C++          |  |good swedish fish |  |nice        |
-
+| Languages    | Tools            | Frameworks |
+|:-------------|:-----------------|:-----------|
+| C++          | good swedish fish |  |nice        |
+| C           |  |   |
+| Java | good and plenty   | nice  |
+| JavaScript           | good `oreos`      | hmm   |
+| Python           |  |   |
+| HTML           |  |   |
+| SQL           |  |   |
+| Python           |  |   |
