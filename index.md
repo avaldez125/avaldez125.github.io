@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Portfolio
+
 ### Introduction
 
 My name is **Andrew Valdez**. I'm a long-time programmer with experience coding everything from FPGA logic and advanced data structures to games and quick scripts for repetitive tasks. 
