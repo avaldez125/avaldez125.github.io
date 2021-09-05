@@ -9,7 +9,17 @@ My name is **Andrew Valdez**. I'm a long-time programmer with experience coding 
 My intention with this portfolio site is to provide a quick and easy way to demonstrate some of my favorite projects I've worked on. 
 
 
+
+
+
+
+
 * * *
+
+
+
+
+
 
 ### Background
 
@@ -17,7 +27,17 @@ I'm a graduate of the Anderson School of Management at the University of New Mex
 
 I like to keep busy so chances are, if I'm not working, I'm focusing on a personal project, potentially this very site! 
 
+
+
+
+
+
 * * *
+
+
+
+
+
 
 ### Skills
 
